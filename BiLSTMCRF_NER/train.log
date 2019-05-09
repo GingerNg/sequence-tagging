@@ -1,0 +1,4 @@
+2019-02-22 21:22:05,903 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-02-22 21:25:43,651 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-02-22 21:28:25,619 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
+2019-02-22 22:18:57,751 - train.log - INFO - Reading model parameters from ckpt/ner.ckpt
